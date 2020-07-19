@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "FEComentarios"
+    }
+  },
+  "defaultProject": "FEComentarios",
+  "cli": {
+    "analytics": false
+  }
 }
